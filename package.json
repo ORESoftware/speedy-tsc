@@ -1,0 +1,36 @@
+{
+  "name": "speedy-tsc",
+  "version": "0.0.1001",
+  "description": "Speedy TypeScript compilation",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/speedy-tsc.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "ts",
+    "tsc",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Olegzandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/speedy-tsc/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/speedy-tsc#readme",
+  "dependencies": {
+    "siamese": "^2.0.4",
+    "socket.io": "^1.7.3",
+    "typescript": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/async": "^2.0.39",
+    "@types/node": "^7.0.8",
+    "@types/socket.io": "^1.4.28"
+  }
+}
