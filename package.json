@@ -2,7 +2,7 @@
   "name": "speedy-tsc",
   "version": "0.0.1001",
   "description": "Speedy TypeScript compilation",
-  "main": "index.js",
+  "main": "init.js",
   "scripts": {
     "test": "suman"
   },
